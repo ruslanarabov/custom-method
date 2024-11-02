@@ -71,31 +71,5 @@
 
 //trim.custom
 
-static string CustomTrim(string str)
-{
-    int startIndex = 0;
-    int endIndex = str.Length - 1;
 
-    // Başındaki boşlukları atla
-    while (startIndex < str.Length && char.IsWhiteSpace(str[startIndex]))
-    {
-        startIndex++;
-    }
-
-    // Sonundaki boşlukları atla
-    while (endIndex >= 0 && char.IsWhiteSpace(str[endIndex]))
-    {
-        endIndex--;
-    }
-
-    // Geçerli bir aralık varsa substring al
-    if (startIndex <= endIndex)
-    {
-        return CustomSubstring(str, startIndex, endIndex - startIndex + 1);
-    }
-    
-    // Eğer tüm dize boşluksa, boş string döndür
-    return "";
-}
-System.Console.WriteLine(" sala   m");
 #endregion
