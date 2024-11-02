@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/tasks/bin/Debug/net7.0/tasks
+/Users/macbook/Desktop/tasks/bin/Debug/net7.0/tasks.deps.json
+/Users/macbook/Desktop/tasks/bin/Debug/net7.0/tasks.runtimeconfig.json
+/Users/macbook/Desktop/tasks/bin/Debug/net7.0/tasks.dll
+/Users/macbook/Desktop/tasks/bin/Debug/net7.0/tasks.pdb
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.AssemblyInfo.cs
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.dll
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/refint/tasks.dll
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.pdb
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/tasks.genruntimeconfig.cache
+/Users/macbook/Desktop/tasks/obj/Debug/net7.0/ref/tasks.dll
